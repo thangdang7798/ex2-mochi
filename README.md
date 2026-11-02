@@ -35,3 +35,12 @@
 1. Tải file [`pet-farm.apk`](https://github.com/thangdang7798/ex2-mochi/releases/latest/download/pet-farm.apk) tại mục **Releases**.
 2. Cài đặt lên màn hình xe thông qua ADB.
 3. Các phiên bản tiếp theo có thể cập nhật trực tiếp ngay trong ứng dụng tại mục **Cài đặt → Cập nhật ứng dụng**.
+
+---
+
+## 🧰 Ứng dụng bổ sung
+
+Các ứng dụng dưới đây chỉ có 1 phiên bản duy nhất, không có cập nhật:
+
+- [`via.apk`](https://github.com/thangdang7798/ex2-mochi/raw/main/apps/via.apk) — Lướt trình duyệt trên xe.
+- [`explorer.apk`](https://github.com/thangdang7798/ex2-mochi/raw/main/apps/explorer.apk) — Quản lý files xe.
