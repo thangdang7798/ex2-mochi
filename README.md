@@ -35,3 +35,7 @@
 1. Tải file [`pet-farm.apk`](https://github.com/thangdang7798/ex2-mochi/releases/latest/download/pet-farm.apk) tại mục **Releases**.
 2. Cài đặt lên màn hình xe thông qua ADB.
 3. Các phiên bản tiếp theo có thể cập nhật trực tiếp ngay trong ứng dụng tại mục **Cài đặt → Cập nhật ứng dụng**.
+
+---
+
+> 🚗 **Ứng dụng trong hệ sinh thái:** Xem thêm [**Mochi Car & Mochi Phone (`ex2-mochi-car`)**](https://github.com/thangdang7798/ex2-mochi-car) — Bộ công cụ tiện ích, tự động hoá và điều khiển xe bằng giọng nói tiếng Việt cho Geely EX2.
