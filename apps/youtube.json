@@ -1,0 +1,14 @@
+{
+  "versionCode": 1561052632,
+  "versionName": "21.04.223",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube.apk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube.apk.003",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube.apk.004"
+  ],
+  "sizeBytes": 182727681,
+  "sha256": "7a051fea28e44b3f9be61c81fc092b590c88279696aa6726e46910146a19b615",
+  "notes": ""
+}
