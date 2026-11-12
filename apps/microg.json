@@ -1,0 +1,13 @@
+{
+  "versionCode": 250932004,
+  "versionName": "0.3.13.2.250932",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/microg.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/microg.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/microg.apk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/microg.apk.003"
+  ],
+  "sizeBytes": 105561934,
+  "sha256": "62119f040d629a9cd3225f280649a464936730c6466cafb5b9dd5ded14269a65",
+  "notes": ""
+}

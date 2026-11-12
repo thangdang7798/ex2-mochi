@@ -1,0 +1,14 @@
+{
+  "versionCode": 1068797726,
+  "versionName": "26.39.06.984891338",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps.apk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps.apk.003",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps.apk.004"
+  ],
+  "sizeBytes": 166871593,
+  "sha256": "e3b158698c50c2e28314c3bfa2de60f58a356033f8b025144b53676fc1ad88e5",
+  "notes": ""
+}
