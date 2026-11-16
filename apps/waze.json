@@ -1,0 +1,12 @@
+{
+  "versionCode": 1022845,
+  "versionName": "4.91.0.2",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/waze.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/waze.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/waze.apk.002"
+  ],
+  "sizeBytes": 90007970,
+  "sha256": "643abada2783824888d3da92a7da68a909433689be679975be5b6134cc8ab159",
+  "notes": ""
+}

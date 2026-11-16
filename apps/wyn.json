@@ -1,0 +1,13 @@
+{
+  "versionCode": 88,
+  "versionName": "1.23.5",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/wyn.xapk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/wyn.xapk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/wyn.xapk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/wyn.xapk.003"
+  ],
+  "sizeBytes": 134465087,
+  "sha256": "99234a0dffb7e44f835afb4f9d762ee4be397cadba12fc16c67619a5fc31c081",
+  "notes": ""
+}
