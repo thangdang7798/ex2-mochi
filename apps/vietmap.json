@@ -1,0 +1,15 @@
+{
+  "versionCode": 178555549,
+  "versionName": "3.3.4",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.003",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.004",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/vietmap.xapk.005"
+  ],
+  "sizeBytes": 241345715,
+  "sha256": "b5d98652fa67fddd4ce647e7f3c9e28e799896ff9cfe33e34ac6353cd8c09a15",
+  "notes": ""
+}

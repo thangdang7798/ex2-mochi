@@ -1,0 +1,13 @@
+{
+  "versionCode": 1068763352,
+  "versionName": "26.36.05.973607363",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps-morphe.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps-morphe.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps-morphe.apk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/maps-morphe.apk.003"
+  ],
+  "sizeBytes": 150728938,
+  "sha256": "219f0fecc5562abad67bc05d0c439bf8ed6d0af858a9f51be8b25492138a8746",
+  "notes": ""
+}

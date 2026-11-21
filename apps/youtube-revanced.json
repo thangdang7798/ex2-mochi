@@ -1,0 +1,14 @@
+{
+  "versionCode": 1561068412,
+  "versionName": "21.16.256",
+  "apkUrl": "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube-revanced.apk.001",
+  "apkParts": [
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube-revanced.apk.001",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube-revanced.apk.002",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube-revanced.apk.003",
+    "https://raw.githubusercontent.com/thangdang7798/ex2-mochi/main/apps/youtube-revanced.apk.004"
+  ],
+  "sizeBytes": 195914241,
+  "sha256": "e948a7ef5692c227ab7f8425cb71818e7f075f6d3bba61346fb68fc00afdfb7c",
+  "notes": ""
+}
